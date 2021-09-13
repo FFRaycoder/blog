@@ -136,11 +136,11 @@
     link = "https://www.micdz.cn/"
     bio = "OIER"
 
-[[links]]
-    name = "Gatsby"
-    image = "https://cdn.jsdelivr.net/gh/a347807131/a347807131.github.io/medias/avatar.gif"
-    link = "https://gatsby.fun/"
-    bio = "You see, I’m Gatsby."
+# [[links]]
+#     name = "Gatsby"
+#     image = "https://cdn.jsdelivr.net/gh/a347807131/a347807131.github.io/medias/avatar.gif"
+#     link = "https://gatsby.fun/"
+#     bio = "You see, I’m Gatsby."
 
 [[links]]
     name = "JokerM's Palace"
@@ -160,11 +160,11 @@
     link = "https://dna049.com/"
     bio = "记录数学和程序的点滴"
 
-# [[links]]
-#     name = "Metthew’s blog"
-#     image = "https://s2.ax1x.com/2020/02/02/1YPnhR.jpg"
-#     link = "https://suzhigao66.top/"
-#     bio = "技术-分享-生活"
+[[links]]
+    name = "Metthew’s blog"
+    image = "https://s2.ax1x.com/2020/02/02/1YPnhR.jpg"
+    link = "https://suzhigao66.top/"
+    bio = "技术-分享-生活"
 
 [[links]]
     name = "lomtom"
